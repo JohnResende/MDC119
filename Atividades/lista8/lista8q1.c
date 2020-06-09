@@ -46,4 +46,5 @@ while(fread(&aluno, sizeof(aluno), 1, arqui)!= 0){
 }
 fclose(arqui);
 return 0;
+
 }

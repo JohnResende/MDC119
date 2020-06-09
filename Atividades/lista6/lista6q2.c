@@ -23,4 +23,5 @@ if(feof(arqui)==0){
 fclose(arqui);
 
 return 0;
+
 }

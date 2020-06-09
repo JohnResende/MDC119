@@ -44,4 +44,5 @@ while(fgets(matricula,10,arqui)!=NULL){
 
 
 return 0;
+
 }
